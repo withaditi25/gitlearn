@@ -8,4 +8,6 @@ function Nvbar(){
       <p>ABOUT</p>
      <p>BLOG </p>
     </>
-    
+  )
+}
+export default Nvbar;
