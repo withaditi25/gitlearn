@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1>hello</h1>
-    <P>add new branch and new feature in branch 1</P>
+    <P>add new branch and new feature in branch f1</P>
     </>
   );
 }
